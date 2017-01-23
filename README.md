@@ -1,0 +1,2 @@
+# rabbitbrowser
+for Vivaldi.
